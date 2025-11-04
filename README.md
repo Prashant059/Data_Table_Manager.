@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Data_Table_Manager.
-=======
-# Dynamic Data Table Manager
 
 A powerful and dynamic data table manager built with Next.js 14, Redux Toolkit, and Material UI. This application provides advanced data management capabilities including sorting, filtering, column customization, and CSV import/export functionality.
 
@@ -97,7 +94,3 @@ npm start
 - `npm run start`: Start production server
 - `npm run lint`: Run ESLint
 
-## License
-
-MIT License - feel free to use this project for learning or as a starting point for your own applications.
->>>>>>> dfb6c1b (Initial commit - JavaScript version of project)
